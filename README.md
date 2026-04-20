@@ -3,7 +3,7 @@
 
 ## Overview
 
-**ShellVault** is a cli shellcode execution framework featuring 31+ execution techniques sourced from the VX-API project. It provides security researchers, red team operators, and malware developers with a versatile tool for testing shellcode execution across various Windows API methods.
+**ShellVault** is a CLI shellcode execution framework featuring 31+ execution techniques sourced from the VX-API project. It provides security researchers, red team operators, and malware developers with a versatile tool for testing shellcode execution across various Windows API methods.
 
 ## Quick Start
 
